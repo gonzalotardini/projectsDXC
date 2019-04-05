@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APM-Terminals-API", "APM-Terminals-API\APM-Terminals-API.csproj", "{5E6EDA68-574F-4B4C-B83D-BEBF6B82850E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{27700044-C4AF-4643-96EF-E3C70067EA23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FF0ACDAD-FA5A-4D92-A017-0FDBDD891FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E6EDA68-574F-4B4C-B83D-BEBF6B82850E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6EDA68-574F-4B4C-B83D-BEBF6B82850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6EDA68-574F-4B4C-B83D-BEBF6B82850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6EDA68-574F-4B4C-B83D-BEBF6B82850E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27700044-C4AF-4643-96EF-E3C70067EA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27700044-C4AF-4643-96EF-E3C70067EA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27700044-C4AF-4643-96EF-E3C70067EA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27700044-C4AF-4643-96EF-E3C70067EA23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0ACDAD-FA5A-4D92-A017-0FDBDD891FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0ACDAD-FA5A-4D92-A017-0FDBDD891FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0ACDAD-FA5A-4D92-A017-0FDBDD891FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0ACDAD-FA5A-4D92-A017-0FDBDD891FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {603AB3F3-89E4-41F7-975D-DEA98AFCD25C}
+	EndGlobalSection
+EndGlobal

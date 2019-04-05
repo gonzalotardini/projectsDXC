@@ -1,0 +1,9 @@
+C:\Projects\APM-Terminals-API\BLL\bin\Debug\BLL.dll
+C:\Projects\APM-Terminals-API\BLL\bin\Debug\BLL.pdb
+C:\Projects\APM-Terminals-API\BLL\bin\Debug\DAL.dll
+C:\Projects\APM-Terminals-API\BLL\bin\Debug\DAL.pdb
+C:\Projects\APM-Terminals-API\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Projects\APM-Terminals-API\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Projects\APM-Terminals-API\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Projects\APM-Terminals-API\BLL\obj\Debug\BLL.dll
+C:\Projects\APM-Terminals-API\BLL\obj\Debug\BLL.pdb
